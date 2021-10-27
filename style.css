@@ -180,7 +180,7 @@ section {
 /* My Services Section */
 .my-services {
   background-color: var(--clr-dark);
-  background-image: url(/What-I-Do\ Image.jpg);
+  background-image: url(img/What-I-Do.jpg);
   background-size: cover;
   color: var(--clr-light);
   text-align: center;
